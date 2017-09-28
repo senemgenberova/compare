@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\Compare\Compare\bin\Debug\Compare.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Compare\Compare\bin\Debug\Compare.exe
+c:\users\user\documents\visual studio 2017\Projects\Compare\Compare\bin\Debug\Compare.pdb
+c:\users\user\documents\visual studio 2017\Projects\Compare\Compare\obj\Debug\Compare.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Compare\Compare\obj\Debug\Compare.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\Compare\Compare\obj\Debug\Compare.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Compare\Compare\obj\Debug\Compare.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Compare\Compare\obj\Debug\Compare.exe
+c:\users\user\documents\visual studio 2017\Projects\Compare\Compare\obj\Debug\Compare.pdb
